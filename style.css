@@ -1,24 +1,24 @@
  @font-face {
     font-family: "Plain Light";
-    src: url(./fonts/plain-regular-webfont.woff);
+    src: url(/plain-regular-webfont.woff);
     /* src: url(https://obys.agency/wp-content/themes/obys/fonts/plain-regular-webfont.woff); */
 } 
 
 @font-face {
     font-family: "Plain Light";
-    src: url(./fonts/plain-light-webfont.woff);
+    src: url(/plain-light-webfont.woff);
     /* src: url(https://obys.agency/wp-content/themes/obys/fonts/plain-light-webfont.woff); */
 }
 
 @font-face {
     font-family: "silk serif";
-    src: url(./fonts/silkserif-regularitalic-webfont.woff);
+    src: url(/silkserif-regularitalic-webfont.woff);
     /* src: url(https://obys.agency/wp-content/themes/obys/fonts/silkserif-regularitalic-webfont.woff); */
 }
 
 @font-face {
     font-family: "silk serif";
-    src: url(./fonts/silkserif-lightitalic-webfont.woff);
+    src: url(/silkserif-lightitalic-webfont.woff);
     /* src: url(https://obys.agency/wp-content/themes/obys/fonts/silkserif-lightitalic-webfont.woff); */
 }
 
